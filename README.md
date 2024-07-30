@@ -1,3 +1,1 @@
-This is my first repo 
-for second branch
-today
+I changed all for new second branch
