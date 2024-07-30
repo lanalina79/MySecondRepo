@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 *test.txt
 *.DS_Store.DS_Store
 .DS_Store
+=======
+*test.txt.DS_Store
+>>>>>>> third_branch
